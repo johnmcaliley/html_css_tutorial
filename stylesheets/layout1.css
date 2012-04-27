@@ -1,0 +1,43 @@
+body{
+  font-size: 20px;
+  margin: 0;
+  padding: 0;
+  height: 500px;
+}
+
+div{
+  border: 1px solid #ccc;
+}
+
+#container{
+  width: 800px;
+  height: 100px;
+  margin: 20px auto;
+}
+
+.some-class{
+  font-size: 10px;
+  font-weight: bold;
+}
+
+#header{
+  height: 100px;
+}
+
+#content{
+  height: 100px;
+}
+
+#footer{
+  height: 100px;
+}
+
+#left-side{
+  width: 100px;
+  float: right;
+}
+
+#right-side{
+  width: 200px;
+  float: right;
+}
